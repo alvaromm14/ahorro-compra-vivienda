@@ -63,7 +63,7 @@
     </g>
   </svg>
 </div>
-<p class="fuente">Fuentes: Banco de España</p>
+<p class="fuente">Fuente: Banco de España</p>
 </div>
 <style>
 
