@@ -1,1 +1,1 @@
-Visualización con un gráfico interactivo de línea sobre los añs de ahorro necesarios del hogar mediano para pagar una vivienda media.
+Visualización con un gráfico interactivo de línea sobre los años de sueldo necesarios del hogar mediano para pagar una vivienda.
