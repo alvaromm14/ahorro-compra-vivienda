@@ -34,9 +34,8 @@
     font-size="12px"
 >
     <tspan class="dato">
-        {getYValue(hoveredDate)
-            .toFixed(1)
-            .replace(".", ",") + " años"}
+        {new Intl.NumberFormat('es-ES', { minimumFractionDigits: 1, maximumFractionDigits: 1 })
+        .format(getYValue(hoveredDate)) + " años"}
     </tspan>
     <tspan class="fecha"
         x={xScale(hoveredDate) + 55 > innerWidth ? xScale(hoveredDate) - 10 : xScale(hoveredDate) + 8} dy="1.1em">
