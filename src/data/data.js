@@ -281,18 +281,22 @@ export default [
   },
   {
     "Fecha": "jun-2022",
-    "Esfuerzo": 7.45
+    "Esfuerzo": 7.42
   },
   {
     "Fecha": "dec-2022",
-    "Esfuerzo": 7.53
+    "Esfuerzo": 7.45
   },
   {
     "Fecha": "jun-2023",
-    "Esfuerzo": 7.29
+    "Esfuerzo": 7.25
   },
   {
     "Fecha": "dec-2023",
-    "Esfuerzo": 7.12
+    "Esfuerzo": 7.06
+  },
+  {
+    "Fecha": "jun-2024",
+    "Esfuerzo": 7.13
   }
 ]

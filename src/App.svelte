@@ -39,7 +39,7 @@
 </script>
 
 <div class="main" bind:clientWidth={width}>
-<h1>Años de sueldo del hogar mediano necesarios para comprar una vivienda</h1>
+<h1>Años de ingresos del hogar mediano necesarios para comprar una vivienda</h1>
 <div class="chart-container">
   <svg {width} {height}>
     <g class="inner-chart" transform="translate({margin.left}, {margin.top})">
