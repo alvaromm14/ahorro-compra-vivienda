@@ -35,9 +35,8 @@
 >
     <tspan class="dato">
         {getYValue(hoveredDate)
-            .toFixed(1) // Asegura un decimal
-            .replace(".", ",") // Reemplaza el punto decimal por coma
-            .replace(/\B(?=(\d{3})+(?!\d))/g, ".") + " años"}
+            .toFixed(1)
+            .replace(".", ",") + " años"}
     </tspan>
     <tspan class="fecha"
         x={xScale(hoveredDate) + 55 > innerWidth ? xScale(hoveredDate) - 10 : xScale(hoveredDate) + 8} dy="1.1em">
