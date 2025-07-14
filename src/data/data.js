@@ -265,31 +265,31 @@ export default [
   },
   {
     "Fecha": "jun-2020",
-    "Esfuerzo": 6.99
+    "Esfuerzo": 7
   },
   {
     "Fecha": "dec-2020",
-    "Esfuerzo": 7.09
+    "Esfuerzo": 7.11
   },
   {
     "Fecha": "jun-2021",
-    "Esfuerzo": 7.06
+    "Esfuerzo": 7.08
   },
   {
     "Fecha": "dec-2021",
-    "Esfuerzo": 7.27
+    "Esfuerzo": 7.26
   },
   {
     "Fecha": "jun-2022",
-    "Esfuerzo": 7.42
+    "Esfuerzo": 7.41
   },
   {
     "Fecha": "dec-2022",
-    "Esfuerzo": 7.45
+    "Esfuerzo": 7.44
   },
   {
     "Fecha": "jun-2023",
-    "Esfuerzo": 7.25
+    "Esfuerzo": 7.24
   },
   {
     "Fecha": "dec-2023",
@@ -297,6 +297,10 @@ export default [
   },
   {
     "Fecha": "jun-2024",
-    "Esfuerzo": 7.13
+    "Esfuerzo": 7.07
+  },
+  {
+    "Fecha": "dic-2024",
+    "Esfuerzo": 7.22
   }
 ]
