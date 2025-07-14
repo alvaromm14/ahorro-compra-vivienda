@@ -300,7 +300,7 @@ export default [
     "Esfuerzo": 7.07
   },
   {
-    "Fecha": "dic-2024",
+    "Fecha": "dec-2024",
     "Esfuerzo": 7.22
   }
 ]
